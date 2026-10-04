@@ -1,0 +1,11 @@
+{
+  "nav": { "shop": "Comprar todo", "categories": "Categorías", "cart": "Carrito" },
+  "hero": { "title": "Hecho a mano en el Perú, directo a tu casa", "subtitle": "Textiles, cerámica y joyería de talleres artesanales de Cusco, Ayacucho y Piura." },
+  "filters": { "title": "Filtrar", "search": "Buscar producto", "placeholder": "Nombre o descripción", "category": "Categoría" },
+  "catalog": { "empty": "No encontramos productos con esos filtros.", "apiOffline": "No se pudo cargar las categorías desde el servidor de aplicaciones.", "by": "Por", "stock": "{n} disponibles" },
+  "product": { "back": "Volver al catálogo", "add": "Añadir al carrito", "qty": "Cantidad", "notFound": "Producto no encontrado.", "maker": "Taller" },
+  "cart": { "title": "Tu carrito", "empty": "Tu carrito está vacío.", "keep": "Seguir comprando", "total": "Total", "confirm": "Confirmar compra", "remove": "Quitar" },
+  "thanks": { "title": "¡Gracias por tu compra!", "text": "Tu pedido fue registrado y pronto saldrá del taller.", "summary": "Resumen del pedido", "order": "Pedido", "date": "Fecha", "total": "Total pagado", "back": "Volver a la tienda" },
+  "admin": { "title": "Categorías", "subtitle": "Datos en vivo desde la API REST de WildFly (tabla categorias).", "name": "Nombre", "description": "Descripción", "create": "Registrar categoría", "delete": "Eliminar", "created": "Categoría registrada.", "deleted": "Categoría eliminada.", "error": "No se pudo completar la operación. Revisa que WildFly esté activo." },
+  "footer": "ArtesaniasPeru · Sistemas Operativos · UPC 2026"
+}

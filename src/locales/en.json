@@ -1,0 +1,11 @@
+{
+  "nav": { "shop": "Shop all", "categories": "Categories", "cart": "Cart" },
+  "hero": { "title": "Handmade in Peru, delivered to your door", "subtitle": "Textiles, ceramics and jewelry from artisan workshops in Cusco, Ayacucho and Piura." },
+  "filters": { "title": "Filter", "search": "Search product", "placeholder": "Name or description", "category": "Category" },
+  "catalog": { "empty": "No products match those filters.", "apiOffline": "Categories could not be loaded from the application server.", "by": "By", "stock": "{n} in stock" },
+  "product": { "back": "Back to catalog", "add": "Add to cart", "qty": "Quantity", "notFound": "Product not found.", "maker": "Workshop" },
+  "cart": { "title": "Your cart", "empty": "Your cart is empty.", "keep": "Keep shopping", "total": "Total", "confirm": "Confirm purchase", "remove": "Remove" },
+  "thanks": { "title": "Thank you for your purchase!", "text": "Your order was registered and will leave the workshop soon.", "summary": "Order summary", "order": "Order", "date": "Date", "total": "Total paid", "back": "Back to the shop" },
+  "admin": { "title": "Categories", "subtitle": "Live data from the WildFly REST API (categorias table).", "name": "Name", "description": "Description", "create": "Register category", "delete": "Delete", "created": "Category registered.", "deleted": "Category deleted.", "error": "The operation failed. Check that WildFly is running." },
+  "footer": "ArtesaniasPeru · Operating Systems · UPC 2026"
+}

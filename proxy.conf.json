@@ -1,0 +1,7 @@
+{
+  "/api": {
+    "target": "http://20.97.241.69:8080/artesanias-test",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
